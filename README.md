@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-START_SECTION
+<!--START_SECTION:wakatime-->
 
-END_SECTION
+<!--END_SECTION:wakatime--> 

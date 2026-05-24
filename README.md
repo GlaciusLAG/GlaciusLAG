@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:wakatime-->
-
-<!--END_SECTION:wakatime--> 
+![Estadísticas de WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GlaciusLAG&theme=tokyonight)

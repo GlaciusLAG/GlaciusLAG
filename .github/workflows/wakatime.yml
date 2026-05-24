@@ -10,11 +10,13 @@ jobs:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/wakatime-readme@v2
+      - uses: actions/checkout@v3
+      
+      - uses: wakatime/wakatime-readme-github-action@v1.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "true"
           SHOW_PROJECTS: "false"
           SHOW_EDITORS: "true"
           SHOW_TIME: "true"
-          SHOW_LINES_OF_CODE: "false"
+          SHOW_TOTAL_TIME: "true"

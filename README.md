@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Estadísticas de WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GlaciusLAG&theme=tokyonight)
+![Estadísticas de WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GlaciusLAG&theme=tokyonight&v=1)
